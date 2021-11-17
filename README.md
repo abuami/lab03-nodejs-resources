@@ -15,3 +15,4 @@ These are resources you should use for lab 3 on Node.js.
 **public**: contains static HTML, CSS and image files
 
 **views**: contais examples of EJS files
+dpigj
